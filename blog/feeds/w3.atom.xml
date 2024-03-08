@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123146 協同產品設計 - w2</title><link href="./" rel="alternate"></link><link href="./feeds/w2.atom.xml" rel="self"></link><id>./</id><updated>2024-03-08T08:21:24+08:00</updated><entry><title>W2</title><link href="./2.html" rel="alternate"></link><published>2024-03-01T17:00:00+08:00</published><updated>2024-03-08T08:21:24+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-01:./2.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123146 協同產品設計 - w3</title><link href="./" rel="alternate"></link><link href="./feeds/w3.atom.xml" rel="self"></link><id>./</id><updated>2024-03-08T17:00:00+08:00</updated><entry><title>41123146 協同產品設計</title><link href="./3.html" rel="alternate"></link><published>2024-03-08T17:00:00+08:00</published><updated>2024-03-08T08:18:56+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-08:./3.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h1&gt;內容管理系統&lt;/h1&gt;
 &lt;p&gt;使用者可以自行利用 &lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; 倉儲作為 Template, 建立自己的網站內容管理系統.&lt;/p&gt;
 &lt;p&gt;引用網站網址連結的方法:&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; - 在文章中多次引用同一個網站連結時, 可以使用此種方法.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;https://github.com/mdecycu/cmsimde_site&lt;/a&gt; - 假如想要快速將網址套用 html 網站連結, 可以使用此種方法.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; - 也可以使用 Markdown 的標準網站連結使用格式.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; - 也可以使用 Markdown 的標準網站連結使用格式.
+w3
+子模組設定 翻譯&lt;/p&gt;
 &lt;pre class="brush: python"&gt;
 # 引用 Python 程式的方法
 for i in range(10):
@@ -261,4 +263,4 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry></feed>
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry></feed>
