@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123146 協同產品設計 - misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2024-05-10T07:41:11+08:00</updated><entry><title>w11</title><link href="./11.html" rel="alternate"></link><published>2024-05-03T17:00:00+08:00</published><updated>2024-05-10T07:40:00+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-03:./11.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</content><category term="misc"></category><category term="網誌編寫"></category></entry><entry><title>w12</title><link href="./12.html" rel="alternate"></link><published>2024-05-03T17:00:00+08:00</published><updated>2024-05-10T07:41:11+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-03:./12.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123146 協同產品設計 - misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2024-06-01T05:56:08+08:00</updated><entry><title>w14</title><link href="./ray41123146-14.html" rel="alternate"></link><published>2024-05-24T17:00:00+08:00</published><updated>2024-06-01T05:56:08+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-24:./ray41123146-14.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;p&gt;利用nx繪製零件&lt;/p&gt;</content><category term="misc"></category><category term="網誌編寫"></category></entry><entry><title>w10</title><link href="./10.html" rel="alternate"></link><published>2024-04-26T17:00:00+08:00</published><updated>2024-05-10T07:37:53+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-26:./10.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-&lt;p&gt;打心得&lt;/p&gt;</content><category term="misc"></category><category term="網誌編寫"></category></entry><entry><title>w1</title><link href="./1.html" rel="alternate"></link><published>2024-02-18T17:00:00+08:00</published><updated>2024-05-10T07:30:45+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./1.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-&lt;p&gt;建立倉儲 設定個人網站&lt;/p&gt;</content><category term="misc"></category><category term="網誌編寫"></category></entry></feed>
+&lt;p&gt;1.平台繪圖完成 2.組合完成並轉檔&lt;/p&gt;</content><category term="misc"></category><category term="網誌編寫"></category></entry><entry><title>w13</title><link href="./ray41123146-13.html" rel="alternate"></link><published>2024-05-17T17:00:00+08:00</published><updated>2024-06-01T05:56:01+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-17:./ray41123146-13.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;1.補做之前期中前未補的事項補齊
+2.繪畫鋼球平衡台之組合件
+3.新增群組靜態內容&lt;/p&gt;</content><category term="misc"></category><category term="網誌編寫"></category></entry><entry><title>w12</title><link href="./ray41123146-12.html" rel="alternate"></link><published>2024-05-10T17:00:00+08:00</published><updated>2024-06-01T05:55:50+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-10:./ray41123146-12.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;利用NXOpen程式分別執行建立block與挖孔&lt;/p&gt;</content><category term="misc"></category><category term="網誌編寫"></category></entry><entry><title>w11</title><link href="./ray41123146-11.html" rel="alternate"></link><published>2024-05-03T17:00:00+08:00</published><updated>2024-06-01T05:50:21+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-03:./ray41123146-11.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;在小組倉儲更新自己的子模組
+學習並練習使用建分支的方式去維護小組倉儲
+用NX畫鋼球平衡零件圖&lt;/p&gt;</content><category term="misc"></category><category term="網誌編寫"></category></entry><entry><title>w10</title><link href="./ray4113146-10.html" rel="alternate"></link><published>2024-04-26T17:00:00+08:00</published><updated>2024-06-01T05:49:32+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-26:./ray4113146-10.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;撰寫對該門課程的心得&lt;/p&gt;</content><category term="misc"></category><category term="網誌編寫"></category></entry><entry><title>w1</title><link href="./ray41123146-1.html" rel="alternate"></link><published>2024-02-18T17:00:00+08:00</published><updated>2024-06-01T05:24:46+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./ray41123146-1.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;建立倉儲 https://github.com/41123146ray/cd2024&lt;/p&gt;
+&lt;p&gt;下載可攜套件 下載可攜程式環境: portable_2024.7z (需要密碼, 下載 540MB, 解開壓縮後約 1.8GB)&lt;/p&gt;
+&lt;p&gt;下載 miktex-portable.7z (需要密碼, 下載 167MB, 解開壓縮檔案後約 1GB)
+設定網誌&lt;/p&gt;
+&lt;p&gt;使用者可以自行利用 cmsimde_site 倉儲作為 Template, 建立自己的網站內容管理系統.&lt;/p&gt;
+&lt;p&gt;引用網站網址連結的方法:&lt;/p&gt;
+&lt;p&gt;cmsimde_site - 在文章中多次引用同一個網站連結時, 可以使用此種方法.&lt;/p&gt;
+&lt;p&gt;https://github.com/mdecycu/cmsimde_site - 假如想要快速將網址套用 html 網站連結, 可以使用此種方法.&lt;/p&gt;
+&lt;p&gt;cmsimde_site - 也可以使用 Markdown 的標準網站連結使用格式.&lt;/p&gt;</content><category term="misc"></category><category term="網誌編寫"></category></entry></feed>
